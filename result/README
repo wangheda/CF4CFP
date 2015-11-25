@@ -1,0 +1,11 @@
+1. extract data:
+
+python extract.py ./
+
+2. show result:
+
+./result.sh
+
+3. ALL IN ONE:
+
+./draw.sh ./
