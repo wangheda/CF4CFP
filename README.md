@@ -11,7 +11,7 @@ Collaborative Filtering of Call for Papers
 
 ## data set
 
-The data set contains 5 files:
+The WikiCFP data set we crawled contains 5 files:
 
     item.txt  itemIDs, seriesIDs, deadlines, and conference names of items
 	meta.txt  meta-data of items in json format
